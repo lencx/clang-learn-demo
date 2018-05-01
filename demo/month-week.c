@@ -42,4 +42,5 @@ int main()
         default: printf("Type entered incorrect!\n");
     }
 
+    return 0;
 }
